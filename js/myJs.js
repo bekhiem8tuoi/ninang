@@ -137,7 +137,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
+            window.location = "https://rr4---sn-8qj-2iie.googlevideo.com/videoplayback?expire=1697408554&ei=yREsZZjiPPjN3LUPyaSRwAE&ip=2001%3Aee0%3A52a7%3A1760%3A2856%3A4840%3Ab62c%3Aeda5&id=o-AKetz1mATtkE7rxxqvZ5SyOs2vASkfUAqA7ROJ27SeGn&itag=18&source=youtube&requiressl=yes&mh=0t&mm=31%2C29&mn=sn-8qj-2iie%2Csn-8qj-nbo66&ms=au%2Crdu&mv=m&mvi=4&pl=48&initcwndbps=1511250&siu=1&spc=UWF9f8kt8i_QmBz5r-FSw0eTqTBTpXX951NsSF67hx-0OAz8wzA0c5U&vprv=1&svpuc=1&mime=video%2Fmp4&ns=TbPExpYxSRHex7xlcwGxC5kP&gir=yes&clen=10878958&ratebypass=yes&dur=233.987&lmt=1697386910233390&mt=1697386630&fvip=5&fexp=24007246&beids=24350018&c=WEB&txp=6209224&n=qLxxmIq8fVP8DQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Csiu%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AGM4YrMwRAIgRgU59qVT7ErYzTS9MOK35ji7ZP6edrWZAq-w7ekURdYCICH5q4y6pSWQ6Olbx3QFEzgtFYKvoQQesxkutxG_NCdP&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AK1ks_kwRQIhAOn1ArPTmfRUuL4psI5wXFoTpjtLn7hfgU2yGFhxrLtrAiB1WInuIa1ZzwHzYUwrfJTszcVsXk2hM5irDur1w4mFDA%3D%3D&cpn=jlxZcYks9O4XWZ0h&cver=2.20231012.01.05&ptk=youtube_none&pltype=contentugc";
           },
         });
       }
